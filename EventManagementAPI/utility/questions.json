@@ -1,0 +1,30 @@
+{"questions":[
+        {
+            "questionNo":"1",
+            "question":"Poster content is of professional quality and indicates a mastery of the project subject matter."
+        },
+         {
+            "questionNo":"2",
+            "question":"The presentation is organized, engaging. and includes a through description of the design and the implementation of the design."
+        },
+         {
+            "questionNo":"3",
+            "question":"All team members are suitably attired, are polite, demonstrate full knowledge of material, and can answer all relevant questions."
+        },
+         {
+            "questionNo":"4",
+            "question":"The work product (model, prototype, documentation set or computer simulation) is of professional quality in all respects."
+        },
+         {
+            "questionNo":"5",
+            "question":"The team immplemented novel approaches and/or solutions in the development of the project."
+        },
+         {
+            "questionNo":"6",
+            "question":"The project has the potential to enhance the reputation of the Innovative Computing Project and/or CCI/DSI."
+        },
+         {
+            "questionNo":"7",
+            "question":"The team successfully explained the scope and results of their project in no more than 5 minutes."
+        }
+    ]}

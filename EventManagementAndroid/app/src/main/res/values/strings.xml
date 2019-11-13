@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">EventManagement</string>
+    <string name="radioButton">0</string>
+    <string name="radioButton1">1</string>
+    <string name="radioButton2">2</string>
+    <string name="radioButton3">3</string>
+    <string name="radioButton4">4</string>
+    <string name="noEvidenceText">No Evidence</string>
+    <string name="superiorText">Superior</string>
+    <string name="nextButton">Next</string>
+    <string name="previousButton">prev</string>
+    <string name="startButton">start</string>
+    <string name="Progress">Progress</string>
+    <string name="UserName">UserName</string>
+    <string name="PhoneNo">Tap to Select Number</string>
+    <string name="OTP">OTP</string>
+    <string name="Login">Login</string>
+</resources>

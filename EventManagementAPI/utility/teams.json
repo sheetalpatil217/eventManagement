@@ -1,0 +1,74 @@
+{
+    "teams": [
+        {
+            "teamName": "Team A",
+            "totalScore": "",
+            "avgScore": "",
+            "Q1": "",
+            "Q2": "",
+            "Q3": "",
+            "Q4": "",
+            "Q5": "",
+            "Q6": "",
+            "Q7": "",
+            "started":false,
+            "progress":0
+        },
+        {
+          "teamName": "Team B",
+            "totalScore": "",
+            "avgScore": "",
+            "Q1": "",
+            "Q2": "",
+            "Q3": "",
+            "Q4": "",
+            "Q5": "",
+            "Q6": "",
+            "Q7": "",
+            "started":false,
+            "progress":0
+        },
+        {
+              "teamName": "Team C",
+            "totalScore": "",
+            "avgScore": "",
+            "Q1": "",
+            "Q2": "",
+            "Q3": "",
+            "Q4": "",
+            "Q5": "",
+            "Q6": "",
+            "Q7": "",
+            "started":false,
+            "progress":0
+        },
+        {
+             "teamName": "Team D",
+            "totalScore": "",
+            "avgScore": "",
+            "Q1": "",
+            "Q2": "",
+            "Q3": "",
+            "Q4": "",
+            "Q5": "",
+            "Q6": "",
+            "Q7": "",
+            "started":false,
+            "progress":0
+        },
+        {
+              "teamName": "Team E",
+            "totalScore": "",
+            "avgScore": "",
+            "Q1": "",
+            "Q2": "",
+            "Q3": "",
+            "Q4": "",
+            "Q5": "",
+            "Q6": "",
+            "Q7": "",
+            "started":false,
+            "progress":0
+        }
+    ]
+}
